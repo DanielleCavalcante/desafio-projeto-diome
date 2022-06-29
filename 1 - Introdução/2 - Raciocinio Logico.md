@@ -20,4 +20,3 @@
 
 - **Sintética:** abdução; indução.
 - **Analítica:** dedução.
-
