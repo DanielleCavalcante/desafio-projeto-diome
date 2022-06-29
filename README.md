@@ -3,7 +3,7 @@ Repositório para conclusão do Desafio de Projeto sobre Git/GitHub da DIO.
 
 ### Índice
 
- - Considerações Iniciais
+ - Introdução
  - Pensamento Computacional
  - Introdução ao Git e ao GitHub
  
